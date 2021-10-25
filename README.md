@@ -16,4 +16,7 @@ Son Pham-Ba - son.phamba@epfl.ch
 Jeremy Bussat - jeremy.bussat@epfl.ch
 
 ## Version history
-0.1. Initial Release
+0.1 Initial Release
+
+## License
+This project is under the EPFL License.
