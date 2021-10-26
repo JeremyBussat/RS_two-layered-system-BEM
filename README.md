@@ -9,7 +9,7 @@ The following libraries are required: Numpy, Matplotlib
 
 ## Expected output and key parameter
 Running "final results.py" will output a window with 9 colormesh figures defining the maximum tangential stresses in given conditions.
-Parameters that can be changed in "final results.py" are "Etest" (line10) which defines the Young modulus of the first layer, "Htest" (line11) which defines the height of the first layer,"n" (line13) which defines the number of elements considered in the BEM 
+Parameters that can be changed in "final results.py" are "Etest" (line10) which defines the Young modulus of the first layer, "Htest" (line11) which defines the height of the first layer,"n" (line13) which defines the number of elements considered in the BEM. "Etest" and "Htest" must keep their dimension.
 
 ## Authors
 Son Pham-Ba - son.phamba@epfl.ch
